@@ -8,7 +8,9 @@
 </h1>
 <br>
 <br>
-
+<h3>Teammates:</h3>
+<h3>Priyanshu Kumar:   <a href="https://github.com/ripperkumar">Github</a></h3>
+<h3>Nirmal Shekhar:   <a href="https://github.com/nirmalshekhar">Github</a></h3>
 <h2 align="left">Login Page</h2>
  <img src="https://github.com/rahul-n18/D-Locker/assets/64891042/03a73806-d076-4d92-8e08-75c9dd69b34f" width="300" height="500">
 
