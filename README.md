@@ -3,8 +3,8 @@
   
   <a href=""><img src="https://github.com/rahul-n18/D-Locker/assets/64891042/83067c8d-2af9-44e1-bb49-df29f4ed8ef7" alt="Student Library" width="300"></a>
   <br>
-  D-Locker: Digi wallet, Data Vault, Lrgacy Transfer<br>
- <h2 align="center"> An amazing final year project which has 3 core features: Data Vault, Digital Wallet, Legacy Transfer</h2>
+  D-Locker: Digi wallet, Data Vault, Legacy Transfer<br>
+ <h2 align="center"> An amazing project which has 3 core features: Data Vault, Digital Wallet, Legacy Transfer</h2>
 </h1>
 <br>
 <br>
